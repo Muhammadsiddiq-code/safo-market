@@ -63,7 +63,7 @@
 
     <div class="brand-section">
       <div class="brand-content">
-        <h2 class="brand-title">SAFO-market</h2>
+        <h2 class="brand-title">SAFO-non</h2>
       </div>
     </div>
   </div>
