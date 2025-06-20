@@ -81,7 +81,7 @@ const loginData = reactive({
 
 
 const togglePassword = () => {
-  !showPassword.value = showPassword.value
+  showPassword.value = !showPassword.value
 }
 
 const handleLogin = () => {
