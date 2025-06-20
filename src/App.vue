@@ -351,5 +351,6 @@ const handleLogin = () => {
 
 .form-input::placeholder {
   color: #9ca3af;
+  background-color: #fff;
 }
 </style>
