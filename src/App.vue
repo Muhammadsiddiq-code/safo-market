@@ -101,7 +101,7 @@ const togglePassword = () => {
 
 const handleLogin = () => {
   if (loginData.username === "admin" && loginData.password === "1234") {
-    window.location.href = 'https://exam-vue-js.vercel.app/';
+    window.location.href = 'https://exam-vue-js.vercel.app';
   } else {
     alert("Login yoki parol hato");
   }
